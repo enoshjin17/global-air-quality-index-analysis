@@ -2,7 +2,9 @@
 
 Installation & Requirements
 Prerequisites
+
   •	Python 3.x
+  
   •	Jupyter Notebook / VS Code
 Required Libraries:
 pip install pandas numpy matplotlib seaborn
