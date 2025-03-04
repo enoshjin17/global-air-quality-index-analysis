@@ -7,7 +7,9 @@ Prerequisites
   
   •	Jupyter Notebook / VS Code
 Required Libraries:
+
 pip install pandas numpy matplotlib seaborn
+
 Running the Analysis
 1.	Clone this repository:
       git clone <repository-url>
